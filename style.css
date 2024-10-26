@@ -9,7 +9,7 @@ body {
     flex-direction: column;
     align-items: center;
 
-    background-image: url('PICTURE/bk.jpg'); 
+    background-image: url('image/bk.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed; 
